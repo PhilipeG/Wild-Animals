@@ -76,7 +76,7 @@ body{
     line-height: 1;
     margin-bottom: 1rem;
     grid-column: 1 / 4;
-    background: -webkit-linear-gradient(#333, #E54);
+    background: -webkit-linear-gradient(#333, #ffbb55);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
